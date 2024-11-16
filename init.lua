@@ -1,3 +1,4 @@
+-- For windows only, doesn't break unix config tho
 if not vim.g.vscode then
     require("lanns")
     ColorMyPencils()
